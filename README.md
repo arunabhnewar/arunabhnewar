@@ -22,4 +22,7 @@ Skills:  HTML5/CSS3/JS/ES6
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 ![Profile views](https://gpvc.arturio.dev/arunabhnewar)  
