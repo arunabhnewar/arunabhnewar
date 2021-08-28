@@ -13,6 +13,7 @@ Skills:  HTML5/CSS3/JS/ES6
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arunabhnewar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/newar-devil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arunabh.newar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arunabhnewar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arunabh_leo)  
 
+![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhnewar)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,8 +22,3 @@ Skills:  HTML5/CSS3/JS/ES6
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunabhnewar)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar)  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-![Profile views](https://gpvc.arturio.dev/arunabhnewar)  
