@@ -1,14 +1,19 @@
 ![MERN Stack Web Developer ](https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg)
 
-### Hi there 👋, I am Arunabh Newar
-#### MERN Stack Web Developer 
+# Hi there 👋, I am Arunabh Newar
+## MERN Stack Web Developer 
+
 
 I am a learner of Programming Hero's MERN Stack Web Development Program.
 
+
 Skills:  HTML5/CSS3/JS/ES6
+
+
 
 - 🌱 I’m currently learning JavaScript, API 
 - 💬 Ask me about Web Development  
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arunabhnewar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/newar-devil-bb7126215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arunabh.newar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arunabhnewar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arunabh_leo)  
