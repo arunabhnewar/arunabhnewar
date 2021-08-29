@@ -23,10 +23,10 @@ Skills:  HTML5/CSS3/JS/ES6
 
 ![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhnewar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhnewar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunabhnewar&show_icons=true&theme=merko)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar&show_icons=true&theme=merko)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunabhnewar)  
