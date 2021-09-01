@@ -1,7 +1,7 @@
 ![MERN Stack Web Developer ](https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg)
 
 # Hi there 👋, I am Arunabh Newar
-## MERN Stack Web Developer 
+## MERN Stack Web Development Learner
 
 
 I am a learner of Programming Hero's MERN Stack Web Development Program.
