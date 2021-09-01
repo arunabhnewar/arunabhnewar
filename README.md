@@ -4,7 +4,7 @@
 ## MERN Stack Web Development Learner
 
 
-I am a learner of Programming Hero's MERN Stack Web Development Program.
+I'm learning now Programming Hero's MERN Stack Web Development Program.
 
 
 Skills:  HTML5/CSS3/JS/ES6
