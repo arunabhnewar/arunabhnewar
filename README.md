@@ -41,4 +41,4 @@ Skills:  HTML5/CSS3/JS/ES6
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar&show_icons=true&theme=merko)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunabhnewar)  
+ 
