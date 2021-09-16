@@ -1,4 +1,4 @@
-![MERN Stack Web Developer ](https://www.eligocs.com/wp-content/uploads/2020/09/MREN-stack-1.jpg)
+
 
 # Hi there 👋, I am Arunabh Newar
 ## MERN Stack Web Development student
