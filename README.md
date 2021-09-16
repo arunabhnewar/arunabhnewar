@@ -11,7 +11,7 @@ Skills:  HTML5/CSS3/JS/ES6
 
 
 
-- 🌱 I’m currently learning JavaScript, API 
+- 🌱 I’m currently learning JavaScript, React
 - 💬 Ask me about Web Development  
 
 
