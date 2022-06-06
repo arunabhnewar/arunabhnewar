@@ -11,7 +11,7 @@ Skills:  HTML5/CSS3/JS/ES6
 
 
 
-- 🌱 I’m currently learning React, Firebase, Mongodb
+- 🌱 I’m currently learning Sass, Node.Js
 - 💬 Ask me about Web Development  
 
 
