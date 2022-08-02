@@ -39,7 +39,7 @@ Skills:  HTML5/CSS3/JS/ES6
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="socketio" width="40" height="40"/> </a>
- <a href=https://webrtc.org" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v0e5fe81d770a1c83a74ae94cff5f78c2b690ac595b30fc2439f12b56fdf9fe78/webrtc/images/lockup.svg" alt="webrtc" width="40" height="40"/> </a>
+
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
