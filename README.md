@@ -11,7 +11,7 @@ Skills:  HTML5/CSS3/JS/ES6
 
 
 
-- 🌱 I’m currently learning Sass, Node.Js
+- 🌱 I’m currently learning Web Socket, Web RTC
 - 💬 Ask me about Web Development  
 
 
