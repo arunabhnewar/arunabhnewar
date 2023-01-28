@@ -15,6 +15,7 @@ Skills:  HTML5/CSS3/JS/ES6
 - 💬 Ask me about Web Development  
 
 
+![](https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
