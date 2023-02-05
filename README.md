@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhnewar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats align="right"](https://github-readme-stats.vercel.app/api?username=arunabhnewar&show_icons=true&theme=merko)
+![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=arunabhnewar&show_icons=true&theme=merko)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar&show_icons=true&theme=merko)  
 
