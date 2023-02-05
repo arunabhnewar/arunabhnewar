@@ -1,21 +1,13 @@
 
+<img align="right" alt="coding" width="450" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?raw=true">
 
-# Hi there 👋, I am Arunabh Newar
-## MERN Stack Web Development student
+<h1 align="left" >Hi there 👋, I am Arunabh Newar </h3>
+<h4 align="left" >MERN Stack Web Developer </h3>
 
-
-I'm learning now Programming Hero's MERN Stack Web Development Program.
-
-
-Skills:  HTML5/CSS3/JS/ES6
-
-
-
+- 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 - 🌱 I’m currently learning GraphQL
-- 💬 Ask me about Web Development  
 
-
-![](https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif)
+![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,15 +38,9 @@ Skills:  HTML5/CSS3/JS/ES6
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
 </p>
 
-![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhnewar&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunabhnewar&show_icons=true&theme=merko)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arunabhnewar&show_icons=true&theme=merko)  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/arunabhnewar/count.svg" />
-</p> 
