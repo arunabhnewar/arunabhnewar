@@ -1,7 +1,7 @@
 
 <img align="right" alt="coding" width="450" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?raw=true">
 
-<h1 align="left" >Hi there 👋, I am Arunabh Newar </h3>
+<h2 align="left" >Hi there 👋, I am Arunabh Newar </h3>
 <h4 align="left" >MERN Stack Web Developer </h3>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
