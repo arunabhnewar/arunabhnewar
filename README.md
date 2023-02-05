@@ -4,7 +4,7 @@
 <h2 align="left" >Hi there 👋, I am Arunabh Newar </h3>
 <h4 align="left" >MERN Stack Web Developer </h3>
 
-- 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
+- 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, <br> React, Node**.
 - 🌱 I’m currently learning GraphQL
 
 ![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
