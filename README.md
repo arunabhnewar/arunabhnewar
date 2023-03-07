@@ -5,7 +5,7 @@
 <h4 align="left" >MERN Stack Web Developer </h3>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, <br> React, Node**.
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Redux
 
 ![Profile views](https://gpvc.arturio.dev/arunabhnewar) 
 
