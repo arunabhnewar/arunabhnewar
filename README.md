@@ -3,7 +3,7 @@
 <h1 align="center"> Hi 👋 , I'm Arunabh Newar</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="coding"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3">
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhnewar&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhnewar" /> </p>
 
