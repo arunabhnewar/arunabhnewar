@@ -3,16 +3,17 @@
 <h1 align="center"> Hi 👋 , I'm Arunabh Newar</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?raw=true">
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhnewar&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhnewar" /> </p>
- 
+
 - 💬 Ask me about **MERN**
 - 🌱 I’m currently learning **Nextjs**
 - 🔭 I’m currently working on **Nutrition Web App**
 - 📫 How to reach me **newardevil@gmail.com**
 
+<br/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunabh_leo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunabh_leo" height="30" width="40" /></a>
@@ -21,8 +22,7 @@
 <a href="https://instagram.com/arunabhnewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunabhnewar" height="30" width="40" /></a>
 </p>
 
-
-
+<br/> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
