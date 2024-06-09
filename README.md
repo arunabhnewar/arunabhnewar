@@ -8,7 +8,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunabhnewar&label=Profile%20views&color=0e75b6&style=flat" alt="arunabhnewar" /> </p>
 
 - 💬 Ask me about **MERN**
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **TypeScript**
 - 🔭 I’m currently working on **Nutrition Web App**
 - 📫 How to reach me **newardevil@gmail.com**
 
